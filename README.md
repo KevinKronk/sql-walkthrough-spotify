@@ -1,6 +1,6 @@
 # Spotify Data SQL Walkthrough
 
-Hello! This is a SQL walkthrough using Spotify data. The walkthrough will show you how to create the Postgres database in pgAdmin, and then access it in a Jupyter Notebook using ipython-sql, sqlalchemy, and psycopg2. 
+Hello! This is a SQL walkthrough using Spotify data. The walkthrough will show you how to create the Postgres database in pgAdmin, and then access it in a Jupyter Notebook using ipython-sql, sqlalchemy, and psycopg2. For the full code, look in the Jupyter Notebook [(sql-walkthrough-spotify.ipynb)](sql-walkthrough-spotify.ipynb)!
 
 ## The Data
 The data is coming from Yamac Eren Ay on Kaggle: 
