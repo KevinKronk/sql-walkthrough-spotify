@@ -12,7 +12,7 @@ There are two csv files, artists and tracks. Before these can be added to a data
 
 ## The Database
 
-### QuickDBD
+### Entity Relationship Diagram - QuickDBD
 
 https://app.quickdatabasediagrams.com/#/
 
